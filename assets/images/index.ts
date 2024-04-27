@@ -1,0 +1,17 @@
+import { ImageSourcePropType } from "react-native"
+
+export const backIcon: ImageSourcePropType = require('./Back.png')
+export const navBar: ImageSourcePropType = require('./nav_bar.png')
+export const searchIcon: ImageSourcePropType = require('./search.png')
+export const missingPlaceholder: ImageSourcePropType = require('./placeholder_for_missing_posters.png')
+export const poster1: ImageSourcePropType = require('./poster1.jpg')
+export const poster2: ImageSourcePropType = require('./poster2.jpg')
+export const poster3: ImageSourcePropType = require('./poster3.jpg')
+export const poster4: ImageSourcePropType = require('./poster4.jpg')
+export const poster5: ImageSourcePropType = require('./poster5.jpg')
+export const poster6: ImageSourcePropType = require('./poster6.jpg')
+export const poster7: ImageSourcePropType = require('./poster7.jpg')
+export const poster8: ImageSourcePropType = require('./poster8.jpg')
+export const poster9: ImageSourcePropType = require('./poster9.jpg')
+export const closeWhite: ImageSourcePropType = require('./close_icon.png')
+export const noResult: ImageSourcePropType = require('./NoMovie-bg.png')
