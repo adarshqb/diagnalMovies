@@ -126,7 +126,7 @@ const Home = () => {
                 handleSearch={handleSearch} />
             <View ref={viewRef} onLayout={measureView} />
             
-            {!isScrolling &&
+            {(!isScrolling && !searchVisible) &&
                 <BlackShadow endPosition={endPosition} />}
 
             {!loading ?

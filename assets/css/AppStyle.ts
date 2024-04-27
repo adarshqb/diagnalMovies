@@ -21,8 +21,9 @@ const AppStyle = StyleSheet.create({
   },
   header: {
     paddingTop: 20,
+    marginBottom: 10,
     borderColor: '#fff',
-    marginHorizontal: 10,
+    marginHorizontal: 12,
   },
   flatListStyle: {
     width: '100%',
@@ -61,10 +62,10 @@ const AppStyle = StyleSheet.create({
     borderColor: 'black',
     borderRadius: 5,
     padding: 10,
-    backgroundColor: 'white',
+    backgroundColor: '#FFF',
     width: '90%',
     marginRight: 10,
-    color: '#000'
+    color: '#000',
   },
   closeIcon: {
     width: 25,

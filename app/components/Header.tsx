@@ -61,7 +61,8 @@ const Header = ({ searchVisible, searchText, setSearchVisible, handleSearch }: H
                             <TextInput
                                 value={searchText}
                                 onChangeText={handleSearch}
-                                placeholder="Search..."
+                                placeholder="Search here..."
+                                placeholderTextColor={'#000'}
                                 style={AppStyle.input}
                             />
                             <TouchableOpacity onPress={toggleSearch}>
