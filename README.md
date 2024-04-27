@@ -6,9 +6,11 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 1. To view names longer than usual, simply tap the item.
 2. Loader is not called on every pagination inorder to avoid distractions while scrolling.
 
+
 ## Packages Used
 
 [**react-native-linear-gradient**](https://www.npmjs.com/package/react-native-linear-gradient) - To provide shadow effect on header bottom.
+
 [**react-native-loader-kit**](https://www.npmjs.com/package/react-native-loader-kit) - To show a loader while fetching data.
 
 
