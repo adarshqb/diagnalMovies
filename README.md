@@ -5,6 +5,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 1. To view names longer than usual, simply tap the item.
 2. Loader is not called on every pagination inorder to avoid distractions while scrolling.
+3. The shadow effect on the header section will disappear when scrolling, as demonstrated in the demo screens.
 
 
 ## Packages Used
